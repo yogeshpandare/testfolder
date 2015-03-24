@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="splashScreenTheme"  parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@drawable/inpace</item>
+
+
+          <!--  <style name="splashScreenTheme"
+                parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+                <item name="android:windowBackground">@drawable/splash</item>
+            </style>-->
+
+    </style>
+
+</resources>
